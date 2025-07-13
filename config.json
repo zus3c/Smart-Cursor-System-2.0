@@ -1,0 +1,21 @@
+{
+    "model_path": "shape_predictor_68_face_landmarks.dat",
+    "webcam_index": 0,
+    "sensitivity": 1.5,
+    "smoothing": {
+        "enabled": true,
+        "kalman_process_noise": 1e-4,
+        "kalman_measurement_noise": 1e-1
+    },
+    "thresholds": {
+        "ear_blink": 0.21,
+        "ear_wink_diff": 0.08,
+        "mar_mouth": 0.75
+    },
+    "consecutive_frames": {
+        "blink": 3,
+        "wink": 2,
+        "mouth": 15
+    }
+}
+

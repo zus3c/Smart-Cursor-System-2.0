@@ -15,8 +15,6 @@ Smart Cursor System 2.0 is a revolutionary accessibility tool that enables hands
 - **📦 Portable Executable** - Single-file Windows .exe deployment
 - **🛡️ Error Resilience** - Graceful handling of webcam failures and edge cases
 
-![Task Prossesing](mermaid-1.png)
-
 ## 📋 System Requirements
 
 - **Operating System**: Windows 10/11, macOS 10.14+, Linux Ubuntu 18.04+
@@ -90,16 +88,12 @@ python main.py --webcam 0 --sensitivity 1.5
 - **Gesture Toggles**: Enable/disable specific gesture actions
 - **Real-time Status**: Monitor system performance and errors
 
-## 📸 Screenshots
+## 📸 Task Prossesing
 
 \
-*Professional GUI with real-time controls and status monitoring*
+*real-time controls and status monitoring*
 
-\
-*Live demonstration of blink and wink gesture recognition*
-
-\
-*System resource usage and tracking accuracy metrics*
+![Task Prossesing](mermaid-1.png)
 
 ## 🏗️ Building Executable
 
